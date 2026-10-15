@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:top="26dp"
+        android:bottom="26dp"
+        android:left="26dp"
+        android:right="26dp">
+        <bitmap
+            android:src="@drawable/serviya_logo"
+            android:gravity="center" />
+    </item>
+</layer-list>
